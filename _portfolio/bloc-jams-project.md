@@ -5,7 +5,7 @@ thumbnail-path: "bloc/bloc-jams/blocjams.png"
 short-description: Bloc-Jams1 is a music player that allows you to sort within albums and navigate between songs easily.
 ---
 # Summary
-Bloc Jams1 is a gorgeously made platform that allows the User to easily navigate through albums and songs.
+Bloc Jams is a gorgeously made platform that allows the User to easily navigate through albums and songs.
 # Explanation
 This project was my first, created with the Bloc program to assist in my learning of the facets of web development. My mentor, Carrie, was a great help to me in understanding the nuances of code and ways of simplifying it so it makes more sense and is more efficient.
 # Problem
