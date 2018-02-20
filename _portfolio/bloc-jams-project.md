@@ -2,10 +2,10 @@
 layout: post
 title: Bloc-Jams-Project
 thumbnail-path: "bloc/bloc-jams/blocjams.png"
-short-description: Bloc-Jams is a music player that allows you to sort within albums and navigate between songs easily.
+short-description: Bloc-Jams1 is a music player that allows you to sort within albums and navigate between songs easily.
 ---
 # Summary
-Bloc Jams is a gorgeously made platform that allows the User to easily navigate through albums and songs.
+Bloc Jams1 is a gorgeously made platform that allows the User to easily navigate through albums and songs.
 # Explanation
 This project was my first, created with the Bloc program to assist in my learning of the facets of web development. My mentor, Carrie, was a great help to me in understanding the nuances of code and ways of simplifying it so it makes more sense and is more efficient.
 # Problem
@@ -159,7 +159,7 @@ window.onload = function() {
 This causes the javascript to dynamically generate the album template. We assign this to a collectionContainer variable. We must clear the content before inserting content, and to do this, we assign an empty string to the collectionContainer's innerHTML property. We then create a for loop to add the contents of the template o the innerHTML of collectionContainer, and generates albums.
 
 ## Conclusion of problems
-These were just some of the major issues I faced during the Bloc-Jams project. There were so many nuances and details during the process that make or break the ability to function. 
+These were just some of the major issues I faced during the Bloc-Jams project. There were so many nuances and details during the process that make or break the ability to function.
 # Solution
 The problems were incredibly frustrating, but with the help of the Internet and my trusty mentor Carrie, I was able to research and find new ways to better understand syntax and how code will execute.
 # Result
